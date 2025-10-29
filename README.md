@@ -1,15 +1,22 @@
-# 👋 Hey there, I'm Zuta!  
+# 👋 Hey there, I'm Mahamud Mubarik Zuta!  
 
 🎓 **Electrical & Electronic Engineering student @ KNUST**  
 🌐 **Arabic Studies @ International Open University (IOU)**  
-🤖 Aspiring **AI Engineer & Researcher** — passionate about Deep Learning, Natural Language Processing (NLP), and Intelligent Systems.  
+💡 *Aspiring AI Engineer | AI Researcher | Innovator passionate about transforming Africa’s tech landscape through Artificial Intelligence, Data, and Emerging Technologies.*
 
 ---
 
 ## 🧠 About Me  
 
-I’m deeply interested in how **Artificial Intelligence** can transform real-world systems — from embedded devices to intelligent automation.  
-Currently exploring **Deep Learning, Edge AI, and Multimodal Research**, while building a foundation for future graduate study in **Artificial Intelligence & Machine Learning**.  
+I'm deeply passionate about **Artificial Intelligence, Machine Learning, and Data-Driven Research** — building intelligent systems that drive meaningful change across industries.  
+My journey blends **engineering principles**, **data analytics**, and **AI research**, with hands-on projects spanning **automation, predictive modeling, and deep learning**.  
+
+I’m currently focusing on:
+- Developing scalable and ethical AI models  
+- Exploring Edge AI and IoT systems  
+- Contributing to open-source AI initiatives  
+- Preparing for MSc in Artificial Intelligence and advanced research roles  
+
 
 💡 My guiding principle: *“Innovation starts where curiosity meets consistency.”*
 
@@ -38,12 +45,46 @@ Currently exploring **Deep Learning, Edge AI, and Multimodal Research**, while b
 
 ---
 
-## 📜 Certifications  
+## 🎓 Certifications  
 
-- 🧩 IBM Machine Learning & Deep Learning  
-- ☁️ Google Cloud AI Essentials  
-- 🧠 HP LIFE: Data Science & Business Analytics  
-- 🔍 Machine Learning for IoT – MachineLearning.org.in  
+### 🤖 Artificial Intelligence & Machine Learning  
+- **Edge AI for IoT Developers Specialization** — *MachineLearning.org.in*  
+- **AI Professional Certification** — *Itronix Solutions*  
+- **Machine Learning Professional Certification** — *Itronix Solutions*  
+- **AI & Machine Learning** — *IBM SkillsBuild*  
+- **Deep Learning with TensorFlow** — *Cognitive Class*  
+- **Computer Vision & Image Processing Specialization** — *MachineLearning.org.in*  
+- **AI Ethics** — *IBM SkillsBuild*  
+
+---
+
+### 📊 Data Science & Analytics  
+- **Google Data Analytics** — *Google*  
+- **Data Science & Analytics** — *HP Foundation*  
+- **Data Analysis with Python** — *IBM SkillsBuild*  
+- **Data Visualization with Python** — *IBM SkillsBuild*  
+- **Python 101 for Data Science** — *IBM SkillsBuild*  
+- **Big Data 101** — *IBM SkillsBuild*  
+- **Hadoop 101** — *IBM SkillsBuild*
+
+---
+
+### ☁️ Cloud, Project & Leadership Skills  
+- **Google AI Essentials** — *Google*  
+- **Google Project Management** — *Google*  
+- **Strategic Planning** — *HP LIFE*  
+- **Effective Leadership** — *HP Foundation*
+
+---
+
+### 🧠 Professional & Design Skills  
+- **Design Thinking** — *SoSA / IBM SkillsBuild*  
+- **ITExperience Data Analysis** — *IBM SkillsBuild*  
+
+---
+
+⭐ *Collectively, these certifications demonstrate expertise in AI, Machine Learning, Data Science, and Project Leadership — building a strong foundation for advanced AI research and engineering.*
+ 
 
 ---
 
@@ -63,4 +104,4 @@ Currently exploring **Deep Learning, Edge AI, and Multimodal Research**, while b
 
 ---
 
-⭐ *“AI isn’t just about machines learning — it’s about people growing.”*  
+⭐ *"Artificial Intelligence is not just about automation — it’s about amplifying human potential to solve real-world problems."*  
