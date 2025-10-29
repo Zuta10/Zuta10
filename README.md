@@ -15,13 +15,26 @@ Currently exploring **Deep Learning, Edge AI, and Multimodal Research**, while b
 
 ---
 
-## 🛠️ Skills & Tools  
+## 🛠️ Skills & Abilities  
 
-**Languages:** Python • C   
-**Frameworks & Tools:** PyTorch • TensorFlow • MindSpore • Scikit-learn • Arduino  
-**Cloud Platforms:** AWS • Google Cloud  
-**Databases:** MySQL • SQLite  
-**Other Skills:** Data Preprocessing • Model Optimization • Research Writing • Agile Development  
+### 💻 Programming & Data Analysis  
+- **Python**, **C**, **Data Cleaning**, **Data Visualization**, **Statistical Analysis**
+
+### 🤖 Machine Learning & Artificial Intelligence  
+- **Supervised & Unsupervised Learning**, **Neural Networks**, **Deep Learning**, **Natural Language Processing (NLP)**, **Computer Vision**, **AI Ethics & Responsible AI**
+
+### 🧰 Frameworks & Tools  
+- **TensorFlow**, **PyTorch**, **MindSpore**, **Keras**, **Scikit-learn**, **Jupyter Notebooks**, **OpenCV**
+
+### ☁️ Big Data & Cloud  
+- **Big Data Concepts**, **Hadoop Basics**, **Amazon Web Services (AWS – Practitioner Level)**, **Data Storage**, **Relational Databases**
+
+### ⚙️ Hardware & IoT  
+- **Arduino (Prototyping, Sensor Integration, Embedded Systems Concepts)**
+
+### 🧠 Professional & Transferable Skills  
+- **Project Management**, **Design Thinking**, **Technical Writing**, **Public Speaking**, **Team Collaboration**, **Peer Mentorship**
+
 
 ---
 
