@@ -21,7 +21,7 @@ Currently exploring **Deep Learning, Edge AI, and Multimodal Research**, while b
 - **Python**, **C**, **Data Cleaning**, **Data Visualization**, **Statistical Analysis**
 
 ### 🤖 Machine Learning & Artificial Intelligence  
-- **Supervised & Unsupervised Learning**, **Neural Networks**, **Deep Learning**, **Natural Language Processing (NLP)**, **Computer Vision**, **AI Ethics & Responsible AI**
+- **Supervised & Unsupervised Learning**, **Reinforcement Learning**, **Neural Networks**, **Deep Learning**, **Natural Language Processing (NLP)**, **Computer Vision**, **AI Ethics & Responsible AI**
 
 ### 🧰 Frameworks & Tools  
 - **TensorFlow**, **PyTorch**, **MindSpore**, **Keras**, **Scikit-learn**, **Jupyter Notebooks**, **OpenCV**
